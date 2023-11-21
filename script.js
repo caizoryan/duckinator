@@ -1472,7 +1472,7 @@ var h = createHyperScript({
 });
 
 // index.ts
-var [text, set_text] = createSignal("experimental\\typeface\\design\\100m\\thursday\\november\\twenty\\three");
+var [text, set_text] = createSignal("experimental\\typeface\\design\\100m\\thursday\\november\\twenty\\three\\room\\six\\four\\two");
 var TextBox = () => {
   return h("div", {
     style: {
